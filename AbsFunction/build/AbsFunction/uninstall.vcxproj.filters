@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\兼二\Desktop\Nobuhiko\workspace\AbsFunction\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\兼二\Desktop\Nobuhiko\workspace\AbsFunction\build\AbsFunction\CMakeFiles\0df8e67f117a843b0d7f4502f53bb3d4\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\兼二\Desktop\Nobuhiko\workspace\AbsFunction\build\AbsFunction\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8960FDCA-EA53-4E61-B433-98E07DA2C72C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

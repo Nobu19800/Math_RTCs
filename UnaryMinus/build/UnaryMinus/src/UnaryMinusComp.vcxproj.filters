@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\兼二\Desktop\Nobuhiko\workspace\UnaryMinus\src\UnaryMinusComp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\兼二\Desktop\Nobuhiko\workspace\UnaryMinus\src\UnaryMinus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\兼二\Desktop\Nobuhiko\workspace\UnaryMinus\RTMath\RTMath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\兼二\Desktop\Nobuhiko\workspace\UnaryMinus\include\UnaryMinus\UnaryMinus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\兼二\Desktop\Nobuhiko\workspace\UnaryMinus\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6FE5CDA1-DCD1-4C44-9BD0-8912BDD83967}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{82E3623E-FE35-4C7A-A890-FA05D9F390C2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
