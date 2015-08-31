@@ -1,6 +1,0 @@
-C:/Users/兼二/Desktop/Nobuhiko/workspace/UnaryMinus/build/UnaryMinus/CMakeFiles/uninstall.dir
-C:/Users/兼二/Desktop/Nobuhiko/workspace/UnaryMinus/build/UnaryMinus/src/CMakeFiles/UnaryMinus.dir
-C:/Users/兼二/Desktop/Nobuhiko/workspace/UnaryMinus/build/UnaryMinus/CMakeFiles/ALL_BUILD.dir
-C:/Users/兼二/Desktop/Nobuhiko/workspace/UnaryMinus/build/UnaryMinus/src/CMakeFiles/ALL_IDL_TGT.dir
-C:/Users/兼二/Desktop/Nobuhiko/workspace/UnaryMinus/build/UnaryMinus/CMakeFiles/ZERO_CHECK.dir
-C:/Users/兼二/Desktop/Nobuhiko/workspace/UnaryMinus/build/UnaryMinus/src/CMakeFiles/UnaryMinusComp.dir
