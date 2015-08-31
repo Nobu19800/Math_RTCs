@@ -233,6 +233,7 @@ public:
 	void setData(T2 v)
 	{
 		Out->data = v;
+		setTimestamp(*Out);
 		outOut->write();
 	};
 	T *Out;
