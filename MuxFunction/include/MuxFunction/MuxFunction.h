@@ -344,8 +344,8 @@ public:
 			ans.push_back((*it)->getData());
 			
 		}
-		for (typename std::vector<T2>::iterator it = ans.begin(); it != ans.end(); ++it)
-			std::cout << (*it) << std::endl;
+		//for (typename std::vector<T2>::iterator it = ans.begin(); it != ans.end(); ++it)
+		//	std::cout << (*it) << std::endl;
 		m_outport->setData(ans);
 		
 		return RTC::RTC_OK;

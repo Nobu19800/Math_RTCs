@@ -352,7 +352,7 @@ public:
 			T2 ans;
 			if(func.calc(ans))
 			{
-				std::cout << ans << std::endl;
+				//std::cout << ans << std::endl;
 				m_outport->setData(ans);
 			}
 		}
@@ -431,7 +431,7 @@ public:
 			}
 			if(ans.size() > 0)
 			{
-				std::cout << ans[0] << std::endl;
+				//std::cout << ans[0] << std::endl;
 				m_outport->setData(ans);
 			}
 		}

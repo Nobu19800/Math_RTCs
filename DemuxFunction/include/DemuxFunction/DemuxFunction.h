@@ -341,7 +341,7 @@ public:
 			{
 				if(m_outport.size() > i)
 				{
-					std::cout << tmp[i] << std::endl;
+					//std::cout << tmp[i] << std::endl;
 					m_outport[i]->setData(tmp[i]);
 				}
 			}

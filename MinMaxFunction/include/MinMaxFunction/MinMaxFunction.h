@@ -403,7 +403,7 @@ public:
 		}
 		count++;
 		
-		std::cout << maxminValue << std::endl;
+		//std::cout << maxminValue << std::endl;
 		m_outport->setData(maxminValue);
 		return RTC::RTC_OK;
 	};
@@ -538,8 +538,8 @@ public:
 		}
 		count++;
 		
-		for (typename std::vector<T2>::iterator it = maxminValue.begin(); it != maxminValue.end(); ++it)
-			std::cout << (*it) << std::endl;
+		//for (typename std::vector<T2>::iterator it = maxminValue.begin(); it != maxminValue.end(); ++it)
+		//	std::cout << (*it) << std::endl;
 		m_outport->setData(maxminValue);
 		return RTC::RTC_OK;
 	};

@@ -1,4 +1,6 @@
-set(comp_srcs IfElse.cpp)
+set(subfile_path ../RTMath)
+
+set(comp_srcs IfElse.cpp ${subfile_path}/RTMath.cpp)
 set(standalone_srcs IfElseComp.cpp)
 
 
@@ -46,6 +48,7 @@ include_directories(${PROJECT_BINARY_DIR})
 include_directories(${PROJECT_BINARY_DIR}/idl)
 include_directories(${OPENRTM_INCLUDE_DIRS})
 include_directories(${OMNIORB_INCLUDE_DIRS})
+include_directories(${subfile_path})
 add_definitions(${OPENRTM_CFLAGS})
 add_definitions(${OMNIORB_CFLAGS})
 

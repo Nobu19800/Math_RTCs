@@ -308,7 +308,7 @@ public:
 		{
 			T2 ans = RTSignedSqrt<T2>(m_inport->getData());
 
-			std::cout << ans << std::endl;
+			//std::cout << ans << std::endl;
 			m_outport->setData(ans);
 			
 		}
@@ -355,8 +355,8 @@ public:
 			
 			if(ans.size() > 0)
 			{
-				for (typename std::vector<T2>::iterator it = ans.begin(); it != ans.end(); ++it)
-					std::cout << (*it) << std::endl;
+				//for (typename std::vector<T2>::iterator it = ans.begin(); it != ans.end(); ++it)
+				//	std::cout << (*it) << std::endl;
 				m_outport->setData(ans);
 			}
 		}

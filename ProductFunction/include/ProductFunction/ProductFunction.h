@@ -381,7 +381,7 @@ public:
 		{
 			ans /= (*it)->getData();
 		}
-		std::cout << ans << std::endl;
+		//std::cout << ans << std::endl;
 		m_outport->setData(ans);
 		return RTC::RTC_OK;
 	};
@@ -501,8 +501,8 @@ public:
 				ans[i] /= (*it)[i];
 			}
 		}
-		for (typename std::vector<T2>::iterator it = ans.begin(); it != ans.end(); ++it)
-			std::cout << (*it) << std::endl;
+		//for (typename std::vector<T2>::iterator it = ans.begin(); it != ans.end(); ++it)
+		//	std::cout << (*it) << std::endl;
 		m_outport->setData(ans);
 		return RTC::RTC_OK;
 	};

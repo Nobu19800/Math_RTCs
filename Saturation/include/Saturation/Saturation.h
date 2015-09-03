@@ -331,7 +331,7 @@ public:
 		{
 			T2 val = RTSaturation<T2>(m_inport->getData(),upperLimit,lowerLimit);
 			
-			std::cout << val << std::endl;
+			//std::cout << val << std::endl;
 			m_outport->setData(val);
 
 		}
@@ -396,8 +396,8 @@ public:
 			
 			if(ans.size() > 0)
 			{
-				for (typename std::vector<T2>::iterator it = ans.begin(); it != ans.end(); ++it)
-					std::cout << (*it) << std::endl;
+				//for (typename std::vector<T2>::iterator it = ans.begin(); it != ans.end(); ++it)
+				//	std::cout << (*it) << std::endl;
 				m_outport->setData(ans);
 			}
 		}

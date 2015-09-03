@@ -334,7 +334,7 @@ public:
 	};
 	RTC::ReturnCode_t onExecute(RTC::UniqueId ec_id){
 
-		std::cout << outputValue << std::endl;
+		//std::cout << outputValue << std::endl;
 		m_outport->setData(outputValue);
 
 		return RTC::RTC_OK;
@@ -369,8 +369,8 @@ public:
 		
 		if(outputValue.size() > 0)
 		{
-			for (typename std::vector<T2>::iterator it = outputValue.begin(); it != outputValue.end(); ++it)
-				std::cout << (*it) << std::endl;
+			//for (typename std::vector<T2>::iterator it = outputValue.begin(); it != outputValue.end(); ++it)
+			//	std::cout << (*it) << std::endl;
 			m_outport->setData(outputValue);
 		}
 		
