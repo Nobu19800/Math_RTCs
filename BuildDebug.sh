@@ -1,0 +1,34 @@
+#!/bin/sh
+cd `dirname $0`
+sh AbsFunction/BuildDebug.sh
+sh Backlash/BuildDebug.sh
+sh Bias/BuildDebug.sh
+sh ConstantValue/BuildDebug.sh
+sh CoulombAndViscousFriction/BuildDebug.sh
+sh DeadZone/BuildDebug.sh
+sh DemuxFunction/BuildDebug.sh
+sh Derivative/BuildDebug.sh
+sh Gain/BuildDebug.sh
+sh IfElse/BuildDebug.sh
+sh Integrator/BuildDebug.sh
+sh MinMaxFunction/BuildDebug.sh
+sh MuxFunction/BuildDebug.sh
+sh PIDController/BuildDebug.sh
+sh Polynomial/BuildDebug.sh
+sh ProductFunction/BuildDebug.sh
+sh PulseGenerator/BuildDebug.sh
+sh RampFunction/BuildDebug.sh
+sh RandomNumber/BuildDebug.sh
+sh RateLimiter/BuildDebug.sh
+sh Relay/BuildDebug.sh
+sh Saturation/BuildDebug.sh
+sh Scope/BuildDebug.sh
+sh SignFunction/BuildDebug.sh
+sh SineWave/BuildDebug.sh
+sh SqrtFunction/BuildDebug.sh
+sh StepFunction/BuildDebug.sh
+sh SumFunction/BuildDebug.sh
+sh TrigonometricFunction/BuildDebug.sh
+sh UnaryMinus/BuildDebug.sh
+sh UniformRandomNumber/BuildDebug.sh
+sh WrapToZero/BuildDebug.sh

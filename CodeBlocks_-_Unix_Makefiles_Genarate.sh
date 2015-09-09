@@ -1,0 +1,34 @@
+#!/bin/sh
+cd `dirname $0`
+sh AbsFunction/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh Backlash/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh Bias/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh ConstantValue/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh CoulombAndViscousFriction/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh DeadZone/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh DemuxFunction/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh Derivative/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh Gain/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh IfElse/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh Integrator/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh MinMaxFunction/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh MuxFunction/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh PIDController/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh Polynomial/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh ProductFunction/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh PulseGenerator/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh RampFunction/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh RandomNumber/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh RateLimiter/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh Relay/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh Saturation/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh Scope/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh SignFunction/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh SineWave/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh SqrtFunction/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh StepFunction/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh SumFunction/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh TrigonometricFunction/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh UnaryMinus/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh UniformRandomNumber/CodeBlocks_-_Unix_Makefiles_Genarate.sh
+sh WrapToZero/CodeBlocks_-_Unix_Makefiles_Genarate.sh
